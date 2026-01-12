@@ -3,7 +3,7 @@
 ## Name: Pratham Agrawal
 ## PRN: 22070521078
 ## Class: 7th C
-## Subject: Data Science
+## Subject: Data Science 
 ## Dashboard Link: https://pratham-covidexcessdeathsdashboard.streamlit.app/
 ## ML Implementation File: https://colab.research.google.com/drive/1SE-ZZRGWk_U35qMwtGVCjflvDLu2ZdJn?usp=sharing
 ## EDA Implementation File: https://drive.google.com/file/d/1Q5FSiSdGRWDyey3t56inZWorDnv6hIMu/view?usp=sharing
