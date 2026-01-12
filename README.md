@@ -3,20 +3,6 @@
 ## **By Pratham Agrawal (PRN: 22070521078)**  
 ## Department of Computer Science, Symbiosis Institute of Technology
 
----
-
-## 🧪 Lab Practicals Included
-
-| Sr. No. | Topic                                                                                   | Hours |
-|--------:|------------------------------------------------------------------------------------------|:-----:|
-|   1.    | **R Programming Basics**: Syntax, Data types, Operators, Loops, Functions, Data Frames  |   6   |
-|   2.    | **R Data Interfaces**: Importing CSV, Excel, Binary Files; Databases                    |   6   |
-|   3.    | **R Plotting Tools**: Pie Chart, Bar Chart, Boxplot, Histogram, Scatterplot, Line Graph |   6   |
-|   4.    | **Statistics with R**: Regression, Distributions, Time Series, Chi-Square, Decision Tree|   8   |
-|   5.    | **Case Study**: Multivariate, Bayesian, Tree Models, Survival Analysis                  |   4   |
-
----
-
 ## 🧠 Learning Outcomes
 
 After completing this lab, students will be able to:
@@ -48,15 +34,6 @@ After completing this lab, students will be able to:
 ### Evaluation:
 - Continuous Assessment: Lab Assignments, Lab Tests  
 - End Semester Exam: Written ESE
-
----
-
-## 🏁 Course Outcomes & Mapping
-
-| Course Outcome | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PSO1 | PSO2 |
-|----------------|:---:|:---:|:---:|:---:|:---:|:---:|:----:|:----:|
-| CO1            |  2  |  2  |  2  |  2  |  2  |  1  |      |      |
-| CO2            |  2  |  2  |  2  |  2  |  2  |  1  |      |      |
 
 ---
 
